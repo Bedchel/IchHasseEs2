@@ -1,0 +1,2 @@
+[2026-10-17 14:05:40] ERROR NullPointerException in UserService
+[2026-10-17 14:12:00] ERROR Connection timed out to Redis
